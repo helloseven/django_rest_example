@@ -3,3 +3,6 @@ venv/
 api_example/db.sqlite3
 api_example/media/
 api_example/static/
+db.sqlite3
+/media/
+/static/
